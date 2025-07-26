@@ -16,7 +16,7 @@ An AI-powered Text-to-Image Generator built with the **MERN Stack** (MongoDB, Ex
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (via Mongoose)
 - **API Integration**: [Clipdrop API](https://clipdrop.co/apis)
-- **Deployment**: (Optional — Vercel, Netlify, Render, etc.)
+
 
 
 **Backend Setup**
